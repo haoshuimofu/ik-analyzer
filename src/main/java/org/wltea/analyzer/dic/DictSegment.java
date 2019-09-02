@@ -66,7 +66,7 @@ class DictSegment implements Comparable<DictSegment>{
 		return nodeChar;
 	}
 	
-	/*
+	/**
 	 * 判断是否有下一个节点
 	 */
 	boolean hasNextNode(){
