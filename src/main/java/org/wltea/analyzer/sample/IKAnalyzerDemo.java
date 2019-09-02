@@ -40,7 +40,7 @@ import org.wltea.analyzer.lucene.IKAnalyzer;
  * 2012-10-22
  *
  */
-public class IKAnalzyerDemo {
+public class IKAnalyzerDemo {
 	
 	public static void main(String[] args){
 		//构建IK分词器，使用smart分词模式
