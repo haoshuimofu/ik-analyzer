@@ -10,7 +10,7 @@
     <description>IKAnalyzer2012FF_hf1_source源码解读</description>
 
     <properties>
-        <version.lucene>4.0.0</version.lucene>
+        <version.lucene>8.3.0</version.lucene>
     </properties>
 
     <dependencies>
